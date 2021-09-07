@@ -1,0 +1,3 @@
+rootProject.name = "ContactParser"
+include ':contactparser'
+include ':example'
